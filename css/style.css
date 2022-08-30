@@ -1,7 +1,5 @@
 
 
-
-
 .slider h3,
 .slider h5,
 .clients h3,
@@ -27,6 +25,7 @@
 section, footer {
     padding: 20px 0;
 }
+
 
 .portfolio img {
     filter: drop-shadow(2px)grayscale(10%) saturate(1);

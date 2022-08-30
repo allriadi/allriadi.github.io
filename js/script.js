@@ -24,3 +24,6 @@ const scroll = document.querySelectorAll('.scrollspy');
 M.ScrollSpy.init(scroll, {
     scrollOffset: 25
 });
+
+const dropdown = document.querySelectorAll('.dropdown-trigger');
+M.Dropdown.init(dropdown);
